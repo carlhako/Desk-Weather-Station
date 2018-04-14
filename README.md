@@ -42,3 +42,4 @@ If your getting an error cannot detect BME280 and you have tripple checked the w
 5. Update your wifi details in the sketch and add in your API key for thingspeak. Reflash the NodeMCU hopefully you will see data flowing into your thingspeak channel. The sketch default is send data every minute.
 
 6. Place components into enclosure, you can do this with all the wires attached. Use bluetack or hot glue gun to hold everything into place. I left the side open to show off the components inside. I will design a side for it eventually tho and will be posting a link to the fusion360 model soon. [STL Here](https://www.thingiverse.com/thing:2858106)
+![alt text](https://raw.githubusercontent.com/carlhako/Desk-Weather-Station/master/Enclosure.jpg "Enclosure")
